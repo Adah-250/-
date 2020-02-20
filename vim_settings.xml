@@ -1,12 +1,12 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/zibi0/hello.py" timestamp="1582202392461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/9cfd44544ae74f348a3be3a7e76000f5/198-helloworld/src/hello_world.py" timestamp="1582215374985">
+      <file name="$USER_HOME$/9cfd44544ae74f348a3be3a7e76000f5/198-helloworld/src/hello_world.py" timestamp="1582215451645">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="10" />
         <mark key="." line="1" column="10" />
